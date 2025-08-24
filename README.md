@@ -1,7 +1,8 @@
+
 # ReguSum: Regulatory Summarization Dataset
 
 This repository contains the **ReguSum dataset** and scripts for preparing U.S. regulatory documents for summarization research.  
-The dataset is derived from **SEC (Securities and Exchange Commission)** and **IRS (Internal Revenue Service)** regulatory filings collected from [regulations.gov](https://www.regulations.gov/) (2020–2024).  
+The dataset is derived from **SEC (Securities and Exchange Commission)** and **IRS (Internal Revenue Service)** regulatory filings collected from [regulations.gov](https://www.regulations.gov/) (01/01/2020 - 31/12/2024).  
 We provide both the dataset (`regusum_dataset.json`) and utilities for preprocessing, segmentation, and dataset analysis.
 
 ---
@@ -80,18 +81,6 @@ We provide both the dataset (`regusum_dataset.json`) and utilities for preproces
 
 ---
 
-**Distribution Plots**
-
-- Document length histogram  
-  ![Document Length Histogram](stats/doc_length_hist.png)
-
-- Summary length histogram  
-  ![Summary Length Histogram](stats/summary_length_hist.png)
-
-- Document length ECDF (log scale)  
-  ![Document Length ECDF](stats/doc_length_ecdf.png)
-
----
 
 ## ⚖️ Ethics Statement
 
