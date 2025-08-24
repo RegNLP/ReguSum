@@ -95,9 +95,6 @@ If you use ReguSum in your work, please cite this repository and link to the dat
 
 ```
 @misc{regusum2025,
-  author = {Gokhan, Tuba},
-  title = {ReguSum: Regulatory Summarization Dataset},
-  year = {2025},
-  howpublished = {\url{https://github.com/RegNLP/ReguSum}}
+
 }
 ```
